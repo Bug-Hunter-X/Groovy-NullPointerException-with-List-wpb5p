@@ -1,0 +1,1 @@
+This repository demonstrates a common Groovy error: a NullPointerException when passing null to a method expecting a List. The `bug.groovy` file shows the erroneous code, which throws the exception.  The solution, in `bugSolution.groovy`, shows how to handle the null input gracefully.
